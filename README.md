@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: I'm still finishing this page :)
+- 📫 Follow me on [Twitter](https://twitter.com/jopacicdev)
+
 <!--
 **jopacicdev/jopacicdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
